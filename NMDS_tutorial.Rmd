@@ -41,7 +41,7 @@ bsll_sp <- bsll %>% select(-SampleNo, -Animal, -PhaseCategory)
 
 ## Data Preparation
 
-Next, we prepare the data by converting necessary columns to factors and generating a color palette.
+Next, we prepare the data by converting necessary columns to factors and generating a colour palette.
 
 ```{r data-preparation}
 bsll_env$Animal_factor <- as.factor(bsll_env$Animal)
