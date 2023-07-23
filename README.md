@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 install.packages(c("vegan", "tidyverse", "RColorBrewer"))
 
 #### clone this repository to your local machine. This will download the notebook (*.Rmd file) containing the tutorial.
-git clone https://github.com/aelnahall0/NMDS-Analysis-Tutorial.git
+git clone https://github.com/aelnahal10/NMDS-Analysis-Tutorial.git
 
 #### Navigate to the Repository:
 Open your terminal or command prompt and navigate to the cloned repository's directory.
