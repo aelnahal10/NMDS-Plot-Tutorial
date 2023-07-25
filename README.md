@@ -2,11 +2,6 @@
 
 Welcome to the NMDS Analysis Tutorial! This guide demonstrates how to perform a Non-Metric Dimensional Scaling (NMDS) analysis using R. The purpose of NMDS is to represent as accurately as possible the pairwise dissimilarity between individual observations in a low-dimensional space. This tutorial provides a hands-on approach, using a simulated dataset for better comprehension.
 
-1. Table of Contents
-2. Prerequisites
-3. Getting Started
-4. Running the Tutorial
-
 #### Prerequisites
 Before you begin, ensure you have met the following requirements:  
 - R: Ensure you have R installed.
